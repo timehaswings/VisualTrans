@@ -12,7 +12,7 @@
 
 ## 使用
 
-1. [点这里](https://gitee.com/ignitee/visual-trans/releases)下载最新版程序压缩包
+1. [点这里](https://github.com/timehaswings/VisualTrans/releases)下载最新版程序压缩包
 2. 将压缩包放在被控Windows设备上，并解压
 3. 进入解压后的目录，右键点击VisualTrans.exe，并以**管理身份运行**程序
 4. 再新打开一个命令行窗口，输入*ipconfig*查看被测设备的IP地址，并记下地址（使用其它方式查看IP也是可以的）
